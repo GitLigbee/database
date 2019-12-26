@@ -55,5 +55,8 @@ localhost
 - `/opt/modules/hadoop-2.9.2/sbin/hadoop-daemon.sh start namenode`
 - `/opt/modules/hadoop-2.9.2/sbin/hadoop-daemon.sh start datanode`
 
-6. 访问
+6. 查看进程
+- `jps`
+
+7. 访问
 - `http://localhost:50070/`
